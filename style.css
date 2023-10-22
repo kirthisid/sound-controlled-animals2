@@ -1,0 +1,34 @@
+body{
+    background-color: skyblue;
+    font-family: 'Anton', sans-serif;
+font-family: 'Are You Serious', cursive;
+font-family: 'Chakra Petch', sans-serif;
+font-family: 'Tilt Neon', sans-serif;
+}
+.header_div{
+    background: white;
+    color: maroon;
+}
+.header_div p{
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    width: 100%;
+    bottom: 0;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    background-color: white;
+    text-shadow: 5px 5px 5px lightgrey;
+}
